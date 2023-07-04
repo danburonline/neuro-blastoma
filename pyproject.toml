@@ -16,6 +16,7 @@ notebook = "^6.5.4"
 ipykernel = "^6.24.0"
 matplotlib = "^3.7.1"
 pandas = "^2.0.3"
+scikit-image = "^0.21.0"
 
 [build-system]
 requires = ["poetry-core"]

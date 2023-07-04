@@ -5,6 +5,7 @@
     "linalg",
     "nbconvert",
     "neuro",
+    "skimage",
     "webpdf",
     "widefield"
   ]
