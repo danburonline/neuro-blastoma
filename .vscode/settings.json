@@ -1,4 +1,4 @@
 {
   "python.analysis.typeCheckingMode": "basic",
-  "cSpell.words": ["neuro", "widefield"]
+  "cSpell.words": ["imshow", "linalg", "nbconvert", "neuro", "widefield"]
 }
