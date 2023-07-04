@@ -9,8 +9,10 @@ packages = [{include = "neuro_blastoma"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 
-
 [tool.poetry.group.dev.dependencies]
+pyppeteer = "^1.0.2"
+nbconvert = "^7.6.0"
+notebook = "^6.5.4"
 ipykernel = "^6.24.0"
 matplotlib = "^3.7.1"
 
